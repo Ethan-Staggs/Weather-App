@@ -1,0 +1,14 @@
+<resources>
+    <!-- main_activity -->
+    <string name="app_name"></string>
+    <string name="zipcode_hint_text">Zipcode</string>
+    <string name="weather_icon_description">weather_icon</string>
+    <string name="search_icon_description">search_icon</string>
+    <string name="humidity_header">Humidity</string>
+    <string name="wind_header">Wind</string>
+    <string name="air_pressure_header">Air pressure</string>
+    <string name="uv_header">UV</string>
+
+    <!-- weather_item -->
+    <string name="rec_weather_icon_description">rec_weather_icon</string>
+</resources>
