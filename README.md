@@ -1,4 +1,4 @@
-![splashlogo](https://user-images.githubusercontent.com/78055596/174912108-c2dde585-66d1-4261-8b51-f60b24ecd1f2.png)
+![splashlogo](https://user-images.githubusercontent.com)
 
 
 # My Weather
